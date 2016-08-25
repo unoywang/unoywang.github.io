@@ -4,7 +4,7 @@ header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "unoy|Think Different"  
 baseurl: ""
-url: "http://ww4304.github.io"  
+url: "http://unoywang.github.io"  
 
 # About/contact
 owner: 
@@ -17,8 +17,8 @@ gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
 douban_username:  
-twitter_username: 
-github_username: ww4304
+twitter_username: unoywang
+github_username: unoywang
 weibo_username: 
 facebook_username:
 zhihu_username: unoy
